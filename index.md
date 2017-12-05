@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Checkout pyconecpts here](https://sureshkl.github.io/pyconcepts/)
+[Checkout pyconcepts here](https://sureshkl.github.io/pyconcepts/)
 
 You can use the [editor on GitHub](https://github.com/SureshKL/pyconcepts.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
