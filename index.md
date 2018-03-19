@@ -7,7 +7,8 @@ You can use the [editor on GitHub](https://github.com/SureshKL/pyconcepts.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Contents
-[Iterators](pyiterators.md)
+- [Slicing](slicing.ipynb) : Learn slicing techniques 
+- [Patterns](pattern.ipynb) : Learn how to draw patterns using str() functions
 
 ### Markdown
 
