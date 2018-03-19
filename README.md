@@ -1,4 +1,4 @@
 # pyconcepts
-All in one guide about various Python concepts which can be used for Interview preparation at a glance.
+Learn Python using real world examples.
 
-Only the key highlights are provided with some examples to get better understanding.
+Here I am using Jupyter Notebook to have the logic with output and beautiful markup to glance the concepts quickly over the time.
