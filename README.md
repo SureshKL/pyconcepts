@@ -7,5 +7,5 @@ Here I am using Jupyter Notebook to have the logic with output and beautiful mar
 - [Patterns](./markdowns/pattern.md)
 
 * Advanced
-    - [Metaclasses](./markdowns/pattern.md)
+    - [Metaclasses](./markdowns/metaclasses.md)
     - [Iterators](./markdowns/pyiterators.md)
