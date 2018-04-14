@@ -9,6 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Contents:
 - [Patterns](https://github.com/SureshKL/pyconcepts/blob/master/markdowns/pattern.md)
 - [Slicing](https://github.com/SureshKL/pyconcepts/blob/master/markdowns/slicing.md)
+- [List Operations](https://github.com/SureshKL/pyconcepts/blob/master/markdowns/list_operations.md)
+
+* Parser
+    - [XML Parser](https://github.com/SureshKL/pyconcepts/blob/master/markdowns/xmlparser.md)
 
 * Advanced
     - [Metaclasses](https://github.com/SureshKL/pyconcepts/blob/master/markdowns/metaclasses.md)
